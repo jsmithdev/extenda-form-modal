@@ -1,0 +1,34 @@
+<template>
+    <c-extenda-modal
+        trigger
+        header="Custom Title"
+        variant="large"
+        hide-close
+    >   
+
+        <span slot="trigger">
+            <lightning-button
+                label="Open Modal"
+                slot="trigger"
+                variant="brand"
+            ></lightning-button>
+        </span>
+
+        <div slot="content">
+            <c-extenda-form></c-extenda-form>
+        </div>
+
+        <div slot="footer">
+            <lightning-button
+                label="Cancel"
+                slot="footer"
+                variant="neutral"
+            ></lightning-button>
+            <lightning-button
+                label="Save"
+                slot="footer"
+                variant="brand"
+            ></lightning-button>
+        </div>
+    </c-extenda-modal>
+</template>

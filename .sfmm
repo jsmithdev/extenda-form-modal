@@ -1,0 +1,26 @@
+{
+	"jsmithdev/extenda-element": {
+		"author": "jsmithdev",
+		"repo": "extenda-element",
+		"commit": "https://api.github.com/repos/jsmithdev/extenda-element/git/commits/1dd3bc50c571a91003128808a2852ab0ca11707b",
+		"mod": "2023-10-12T08:10:37.521Z"
+	},
+	"jsmithdev/extenda-modal": {
+		"author": "jsmithdev",
+		"repo": "extenda-modal",
+		"commit": "https://api.github.com/repos/jsmithdev/extenda-modal/git/commits/db30c36527b43de3afc5bb5793dc1d0bbfb051af",
+		"mod": "2023-10-12T08:14:27.753Z"
+	},
+	"jsmithdev/extenda-form": {
+		"author": "jsmithdev",
+		"repo": "extenda-form",
+		"commit": "https://api.github.com/repos/jsmithdev/extenda-form/git/commits/d8acbe01b4db407b36fbc1e4c5c68140d5c08c2d",
+		"mod": "2023-10-12T08:19:51.167Z"
+	},
+	"jsmithdev/extenda-picklist": {
+		"author": "jsmithdev",
+		"repo": "extenda-picklist",
+		"commit": "https://api.github.com/repos/jsmithdev/extenda-picklist/git/commits/35b4891ba5f92a064df7aad96e088367cbcfba58",
+		"mod": "2023-10-12T08:20:49.817Z"
+	}
+}
